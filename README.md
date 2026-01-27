@@ -81,7 +81,7 @@ Enhanced the recommendation logic by applying **Hybrid Scoring** to eliminate da
 - **Deployment**: GitHub Pages (Interactive Web)
 
 ## 🖥 Interactive Web Map
-- 🔗 [Explore the Map](https://yeonje14.github.io/seoul-tokyo-research/)
+- 🔗 [Explore the Map]([https://yeonje14.github.io/seoul-tokyo-research/](https://yeonje14.github.io/GenZ-Seoul-Tokyo-Trend-Map/))
 
 ---
 
